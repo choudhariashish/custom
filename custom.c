@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello from Custom binary: version=> custom-v0.3\n");
+    printf("Hello from Custom binary: version=> v0.4\n");
     return 0;
 }
